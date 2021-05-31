@@ -1,3 +1,7 @@
+Follows this tutorial repo from the Udemy course, "Test Driven Web Developement with Spring Boot and React" by Basar Buyukkahraman:
+
+https://github.com/basarbk/tdd-spring-react
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
